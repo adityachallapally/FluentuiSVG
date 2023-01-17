@@ -5,7 +5,6 @@ library_name: transformers
 pipeline_tag: text-generation
 widget:
   - text: <svg
-  - text: \n
 ---
 # gpt-fluentui-flat-svg
 A custom GPT model which was trained upon svg files.
