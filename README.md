@@ -3,6 +3,9 @@ thumbnail: https://huggingface.co/Norod78/gpt-fluentui-flat-svg/raw/main/train/s
 license: mit
 library_name: transformers
 pipeline_tag: text-generation
+widget:
+  - text: <svg
+  - text: \n
 ---
 # gpt-fluentui-flat-svg
 A custom GPT model which was trained upon svg files.
