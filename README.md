@@ -9,7 +9,7 @@ widget:
 # gpt-fluentui-flat-svg
 A custom GPT model which was trained upon svg files.
 Specifically the flat emoji variants from [Microsoft's FluentUI repo](https://github.com/microsoft/fluentui-emoji). 
-These svn file only consist of "stand-alone" path elements which should make it simpler to train upon and sample from.
+These svn files only consist of "stand-alone" path elements which should make it simpler to train upon and sample from.
 
 # training and dataset
 Both Tokenizer and Model were trained using [aitextgen](https://docs.aitextgen.io/)
